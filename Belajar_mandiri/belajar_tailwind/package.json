@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "scripts": {
+    "dev" : "npx tailwindcss -i ./Belajar_mandiri/belajar_tailwind/src/css/input.css -o ./Belajar_mandiri/belajar_tailwind/public/output.css --watch"
+  }
+}
